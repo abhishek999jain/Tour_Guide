@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Tour_Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="Main">
+        <item>Historical Places</item>
+        <item>Hotels</item>
+        <item>Shopping Malls</item>
+        <item>Art Galleries</item>
+    </string-array>
+
+    <string name="title_activity_display">Display</string>
+    <string-array name="Places">
+        <item>RedFort</item>
+        <item>Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi</item>
+        <item>The Red Fort was the residence of the Mughal emperor for nearly 200 years, until 1857. It is located in the centre of Delhi and houses a number of museums.</item>
+        <item>Akshardham</item>
+        <item>Noida Mor, Pandav Nagar, New Delhi, Delhi 110092</item>
+        <item>Akshardham or Swaminarayan Akshardham complex is a Hindu mandir, and a spiritual-cultural campus in New Delhi, India.</item>
+        <item>Humayuns Tomb </item>
+        <item>Mathura Road, Opp. Dargah Nizamuddin, New Delhi, Delhi 110013</item>
+        <item>Humayuns tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayuns son Akbar in 1569, and designed by Mirak Mirza Ghiyas, a Persian architect chosen by Bega Begum</item>
+        <item>Lotus Temple</item>
+        <item>Lotus Temple Rd, Shambhu Dayal Bagh, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi</item>
+        <item>The Lotus Temple, located in New Delhi, India, is a Bahá House of Worship completed in 1986. Notable for its flowerlike shape, it serves as the Mother Temple of the Indian subcontinent and has become a prominent attraction in the city.</item>
+        <item>Qutb Minar</item>
+        <item>Mehrauli, New Delhi, Delhi 110030</item>
+        <item>Qutb Minar, at 73 metres, is the tallest brick minaret in the world and second highest minar in India after Fateh Burj at Punjab, India.</item>
+    </string-array>
+    <string-array name="Hotels">
+        <item>Taj Palace</item>
+        <item> Address: 2, Sardar Patel Marg, Diplomatic Enclave, New Delhi, Delhi 110021</item>
+        <item>Phone: 011 2611 0202</item>
+        <item>Hyatt Regency </item>
+        <item>Address: New Delhi NCR NH8, Sector 83, Gurugram, Haryana 122004</item>
+        <item>Phone: 0124 618 1234</item>
+        <item>JW Marriott</item>
+        <item>Address: Asset Area 4, Hospitality District, Delhi Aerocity, New Delhi, Delhi 110037</item>
+        <item>Phone: 011 4521 2121</item>
+        <item>The Imperial</item>
+        <item>Address: The Imperial, Janpath Lane, Connaught Place, New Delhi, Delhi 110001</item>
+        <item>Phone: 011 2334 1234</item>
+    </string-array>
+    <string-array name="Malls">
+        <item>Select Citywalk</item>
+        <item>Address: District Centre Saket, New Delhi, Delhi 110017</item>
+        <item>Select Citywalk is a premier shopping mall located in the Saket District Centre, in Saket, New Delhi. The 1,300,000 sq ft retail development is spread over 6 acres and includes a 4 km long multiplex, serviced apartments, offices and public spaces</item>
+        <item>DLF Emporio</item>
+        <item>Address: 4, Nelson Mandela Road, Vasant Kunj, New Delhi, Delhi 110070</item>
+        <item>DLF Emporio is a high-street shopping mall situated Vasant Kunj, New Delhi. In 2007, it was reported as one of the most expensive malls in the country with rental rates</item>
+        <item>DLF Promenade</item>
+        <item>Address: 3, Nelson Mandela Marg, Vasant Kunj Malls, New Delhi, Delhi 110070</item>
+        <item>Phone: 011 4610 4466</item>
+        <item>The Great India Place</item>
+        <item>Address: Plot No A-2, Sector 38-A, Noida, Uttar Pradesh 201301</item>
+        <item>The Great India Place was developed by the Unitech Group and is maintained by Entertainment City Ltd.. It is located in Sector 38A, Noida, adjacent to NOIDA sec-18 metro station.</item>
+        <item>Ambience Mall </item>
+        <item>Address: Plot No.2,Nelson Mandela Marg,Vasant Kunj, Vasant Vihar, New Delhi, Delhi 110070</item>
+        <item>Phone: 011 4087 0060</item>
+    </string-array>
+    <string-array name="Arts">
+        <item>National Art Gallery of Modern Art</item>
+        <item>Address:Jaipur House, India Gate, New Delhi 110001</item>
+        <item>One of India major art galleries, the National Gallery of Modern Art was once the residence of the Maharaja of the Jaipur.</item>
+        <item>Dhoomimal Art Gallery</item>
+        <item>Address:8 A, Connaught Place, New Delhi 110001.</item>
+        <item>It is One of the oldest commercial galleries which runs regular shows. Over the year, an entire spectrum of artists had their works displayed here.</item>
+        <item>Lalit Kala Akademi</item>
+        <item>Address:Rabindra Bhawan, Feroze Shah Road, New Delhi 110001</item>
+        <item>This spacious gallery is spread over three floors and had its first national exhibition of art in 1958. The gallery holds the prestigious Triennale India in which 30 to 40 countries participate, and a national exhibition of photography and art is held.</item>
+        <item>LTG Gallery</item>
+        <item>Address:Copernicus Marg, New Delhi 110001 </item>
+        <item>The gallery often displays meaningful exhibitions. Its group shows by ceramic artists, theme shows on Nelson Mandela, Mahatma Gandhi and Kashmiri immigrants have made an impact.</item>
+    </string-array>
+
+</resources>
